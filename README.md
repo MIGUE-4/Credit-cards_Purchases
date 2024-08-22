@@ -20,6 +20,8 @@ Over time, banking institutions have grown in terms of users and transactions, a
 
 This dataset contains over 1.85 million records of credit card transactions, including details about transaction times, amounts, and personal and merchant information. It is designed to support various financial analyses and applications. 
 
+<img src="image.png" width=100%>
+
 ### Objetives
 
 - Fraud Detection: Implement machine learning models to identify fraudulent activities by analyzing patterns in transaction amounts, locations, and user profiles. Improve fraud detection systems by examining behavioral trends.
@@ -29,6 +31,13 @@ This dataset contains over 1.85 million records of credit card transactions, inc
 - Predictive Modeling: Build models to predict future spending behaviors and detect potential fraud or financial trends based on historical data.
 - Behavioral Analysis: Analyze factors such as transaction amount, merchant type, and time to understand spending behavior and the influence of demographics.
 - Anomaly Detection: Identify unusual transaction patterns that deviate from normal behavior to spot potential fraud early. Use anomaly detection techniques to detect outliers and suspicious activities.
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<img src="https://www.incocredito.com.co/sites/default/files/2023-12/banner-quienes-somos-1.jpg" width=52%>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDvSSP72FDnj_DvSLAkTt0JdyR5YcKymM-w&s" width=45%>
+
+</div>
 
 ### Conclusions/Insights
 
